@@ -1,0 +1,11 @@
+.nav {
+  background: #ffffff;
+  height: 80px;
+  border-bottom: 1px solid #ddd;
+  box-shadow: 0 0 2px rgba(0, 0, 0, .2);
+}
+
+.navLink:hover {
+  text-decoration: none;
+  color: #757474;
+}

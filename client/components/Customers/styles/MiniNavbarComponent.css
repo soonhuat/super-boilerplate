@@ -1,0 +1,17 @@
+.container {
+  border-bottom: 1px solid #e9e9e9;
+  line-height: 45px;
+  font-size: 12px;
+}
+
+.contactMethod {
+  display: inline-block;
+  padding: 0px 20px;
+  border-left: 1px solid #e9e9e9;
+}
+
+.socialIcon {
+  display: inline-block;
+  padding: 0px 20px;
+  border-left: 1px solid #e9e9e9;
+}

@@ -1,0 +1,16 @@
+.footer {
+  background: #13232c;
+  /* color: #3b5868; */
+  color: #dcdcdc;
+}
+
+.socialButton {
+  color: #3b5868;
+  margin-top: 10px;
+  margin-right: 20px;
+  font-size: 18px;
+}
+
+.socialButton:hover {
+  color: #efefef;
+}
